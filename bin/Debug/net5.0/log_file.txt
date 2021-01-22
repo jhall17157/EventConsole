@@ -1,0 +1,39 @@
+2021-01-21 12:32:54.7297|INFO|EventConsole.Program|Program started
+2021-01-21 12:33:03.2669|ERROR|EventConsole.Program|Value cannot be null. (Parameter 'connectionString')
+2021-01-21 12:33:03.2688|INFO|EventConsole.Program|Program ended
+2021-01-21 12:38:28.7350|INFO|EventConsole.Program|Program started
+2021-01-21 12:38:44.0661|INFO|EventConsole.Program|Blog added - "Front Door"
+2021-01-21 12:38:44.3301|INFO|EventConsole.Program|Program ended
+2021-01-21 12:38:54.3831|INFO|EventConsole.Program|Program started
+2021-01-21 12:39:00.5719|INFO|EventConsole.Program|Blog added - "Back Door"
+2021-01-21 12:39:00.7973|INFO|EventConsole.Program|Program ended
+2021-01-21 12:39:06.7910|INFO|EventConsole.Program|Program started
+2021-01-21 12:39:12.7107|INFO|EventConsole.Program|Blog added - "Garage"
+2021-01-21 12:39:12.9154|INFO|EventConsole.Program|Program ended
+2021-01-21 14:16:23.8916|INFO|EventConsole.Program|Program started
+2021-01-21 14:17:20.2646|INFO|EventConsole.Program|Program started
+2021-01-21 14:43:34.0006|INFO|EventConsole.Program|Program started
+2021-01-21 14:45:59.0563|INFO|EventConsole.Program|Program started
+2021-01-21 14:46:56.8828|INFO|EventConsole.Program|Program started
+2021-01-21 14:48:05.5979|INFO|EventConsole.Program|Program started
+2021-01-21 14:48:51.0409|INFO|EventConsole.Program|Program started
+2021-01-21 15:11:05.0064|INFO|EventConsole.Program|Program started
+2021-01-21 15:12:28.8705|INFO|EventConsole.Program|Program started
+2021-01-21 15:12:50.4810|INFO|EventConsole.Program|Program started
+2021-01-21 15:13:06.7675|INFO|EventConsole.Program|Program started
+2021-01-21 15:13:30.1953|INFO|EventConsole.Program|Program started
+2021-01-21 15:13:57.1175|INFO|EventConsole.Program|Program started
+2021-01-21 15:16:40.7676|INFO|EventConsole.Program|Program started
+2021-01-21 15:16:53.9680|INFO|EventConsole.Program|Program started
+2021-01-21 15:46:04.1087|INFO|EventConsole.Program|Program started
+2021-01-21 15:53:08.4837|INFO|EventConsole.Program|Program started
+2021-01-21 16:09:24.0158|INFO|EventConsole.Program|Program started
+2021-01-21 16:09:24.0904|INFO|EventConsole.Program|Program ended
+2021-01-21 17:49:40.6531|INFO|EventConsole.Program|Program started
+2021-01-21 17:49:41.0787|INFO|EventConsole.Program|Program ended
+2021-01-21 18:22:01.9157|INFO|EventConsole.Program|Program started
+2021-01-21 18:23:46.0125|INFO|EventConsole.Program|Program started
+2021-01-21 18:24:50.5830|INFO|EventConsole.Program|Program started
+2021-01-21 18:38:24.0031|INFO|EventConsole.Program|Program started
+2021-01-21 18:38:25.4662|INFO|EventConsole.Program|3 locations saved to database
+2021-01-21 18:38:26.2092|INFO|EventConsole.Program|Program ended
